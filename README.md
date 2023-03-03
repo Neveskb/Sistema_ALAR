@@ -14,5 +14,5 @@ O ALAR vem para tentar suprir o objetivo 11.5 da ODS da ONU.
 
 ## Menu 
 
-+ [Lista de materiais]()
++ [Lista de materiais](https://github.com/Neveskb/Sistema_ALAR/blob/main/Documenta%C3%A7%C3%A3o/ListadeMateriais.md)
 
