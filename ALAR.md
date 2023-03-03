@@ -1,7 +1,7 @@
 # ALAR
 
 Thainá Paiva dos Santos; Alice Tonelli Ramponi e Keythianne Brenda Neves 
--------
+
 -------
 
 Descrição:
