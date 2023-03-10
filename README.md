@@ -4,7 +4,7 @@ Thainá Paiva dos Santos; Alice Tonelli Ramponi e Keythianne Brenda Neves
 
 -------
 
-Descrição:
+## Descrição:
 
 Os deslizamentos de terra no Brasil vêm causando grandes estragos na vida das pessoas. Pensando nisso nossa equipe, a TALK, planeja desenvolver o projeto ALAR, cujo tem como objetivo principal de notificar as pessoas próximas que haverá um deslizamento no local, assim dando tempo de sair da área. 
 
