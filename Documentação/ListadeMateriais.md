@@ -9,7 +9,7 @@
 + [Sensor de Vibração](https://produto.mercadolivre.com.br/MLB-2074271455-modulo-sensor-detector-vibraco-para-arduino-sw-18010p-_JM#is_advertising=true&position=1&search_layout=stack&type=pad&tracking_id=d22bd3ec-6543-4b12-a525-6d6e9f38fe27&is_advertising=true&ad_domain=VQCATCORE_LST&ad_position=1&ad_click_id=MTI5Yzg3ODUtZDA5ZC00N2U4LWIyZmMtOWVjYjAzYTI0YWMz)
 + [Sensor de Umidade](https://produto.mercadolivre.com.br/MLB-1963921965-sensor-de-umidade-do-solo-anti-corroso-para-arduino-nf-e-_JM)
   
-----
+
 ## Menu
 + [Descrição](https://github.com/Neveskb/Sistema_ALAR)
 + [introdução](https://github.com/Neveskb/Sistema_ALAR/blob/main/Documentação/introducao.md)
