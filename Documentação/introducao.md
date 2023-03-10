@@ -24,3 +24,10 @@ MARQUES, Júlia; DOLZAN, Márcio; FEVERO, Paulo; MENGUE; Priscila. Brasil tem qu
 
 MATOS, Thais; CASEMIRO, Poliana. Tragédia no Litoral Norte de SP: moradores da Vila Sahy dizem que não receberam alerta de deslizamento. G1 SÃO PAUOLO. 2023. 
 [Disponível  aqui](https://g1.globo.com/sp/sao-paulo/noticia/2023/02/22/moradores-da-vila-sahy-dizem-que-nao-receberam-alerta-de-deslizamento.ghtml)
+
+
+
+---
++[Voltar ao Menu](https://github.com/Neveskb/Sistema_ALAR)
+
+
