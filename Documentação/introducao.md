@@ -26,8 +26,7 @@ MATOS, Thais; CASEMIRO, Poliana. Tragédia no Litoral Norte de SP: moradores da 
 [Disponível  aqui](https://g1.globo.com/sp/sao-paulo/noticia/2023/02/22/moradores-da-vila-sahy-dizem-que-nao-receberam-alerta-de-deslizamento.ghtml)
 
 
-
----
-+ [Voltar ao Menu](https://github.com/Neveskb/Sistema_ALAR)
-
+## Menu
++ [Descrição](https://github.com/Neveskb/Sistema_ALAR)
++ [Lista de Materiais](https://github.com/Neveskb/Sistema_ALAR/blob/main/Documentação/ListadeMateriais.md)
 
