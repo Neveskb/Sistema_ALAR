@@ -1,6 +1,6 @@
 # Alar
 
-Thainá Paiva Dos Santos; Alice Tonelli Ramponi; Keythianne Brenda Neves.
+Alice Tonelli Ramponi, Eduarda Augusta Borges, Keythianne Brenda Neves, Melissa Gouveia e Thainá Paiva dos Santos.
 ----
 
 Segundo o instituto de pesquisa tecnológicas(IPT) já morreram aproximadamente 4 mil pessoas vítimas do deslizamento de terra no Brasil na últimas décadas. Muitos desses deslizamento são causados por fatores naturais, condicionados pelas fortes chuvas e pelas características relativas ao solo e ao relevo, mais também podem ocorrer pela urbanizadas irregular, assim causando grandes perdas materiais e consequências graves para a população, como a destruição de suas residências, ferimentos e mortes. Por isso nós o grupo TALK criou o ALAR, cujo tem como objetivo principal de notificar as pessoas próximas que haverá um deslizamento no local, assim dando tempo de sair da área, dessa forma  ajudando a prevenir que ocorra mais percas para o deslizamento de terra.
