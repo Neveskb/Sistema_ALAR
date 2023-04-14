@@ -1,6 +1,6 @@
 # ALAR
 
-Thainá Paiva dos Santos; Alice Tonelli Ramponi e Keythianne Brenda Neves 
+ Alice Tonelli Ramponi, Eduarda Augusta Borges, Keythianne Brenda Neves, Melissa Gouveia e Thainá Paiva dos Santos.
 
 -------
 
